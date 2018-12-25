@@ -1,4 +1,4 @@
-# whatsapp_ui
+# WhatsApp UI Clone
 
 A new Flutter project.
 
